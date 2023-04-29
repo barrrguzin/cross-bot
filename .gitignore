@@ -1,0 +1,4 @@
+# Project exclude paths
+/common-broker/target/
+/dispatcher/target/
+/node/target/
